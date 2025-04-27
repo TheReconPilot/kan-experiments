@@ -1,0 +1,7 @@
+numpy
+matplotlib
+tqdm
+torch
+torchvision
+pykan
+single-kan
